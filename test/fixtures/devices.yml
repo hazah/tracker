@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person_id: 
+  kind: MyString
+  contact: MyString
+  hostname: MyString
+  mac: MyString
+
+two:
+  person_id: 
+  kind: MyString
+  contact: MyString
+  hostname: MyString
+  mac: MyString

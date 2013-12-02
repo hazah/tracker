@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  device_id: 
+  ip: MyString
+  start_stamp: 2013-12-02 10:33:53
+  end_stamp: 2013-12-02 10:33:53
+
+two:
+  device_id: 
+  ip: MyString
+  start_stamp: 2013-12-02 10:33:53
+  end_stamp: 2013-12-02 10:33:53

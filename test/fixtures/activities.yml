@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  connection_id: 
+  kind: MyString
+  stamp: 2013-12-02 10:33:04
+
+two:
+  connection_id: 
+  kind: MyString
+  stamp: 2013-12-02 10:33:04
